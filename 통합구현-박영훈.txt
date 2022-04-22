@@ -1,0 +1,12 @@
+프론트(front)는 react로 작업하였습니다.
+- node.js 버전 = 16.14.2 LTS
+- react bootstrap = npm install react-bootstrap bootstrap
+
+백(back)은 node.js와 MongoClient를 사용하였습니다.
+
+react로는 인덱스페이지를 만들었고, 빌드 된 파일을 서버쪽에 넘겨 서버쪽에서 응답할 수 있도록 하였습니다. 
+
+blog와 write페이지는 MongoClient와 자료를 주고 받기 위해 ejs파일로 작업하였습니다.
+
+
+
